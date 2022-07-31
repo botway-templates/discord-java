@@ -29,3 +29,5 @@ hs_err_pid*
 build
 
 /test
+
+/app/src/main/java/core/Botway.kt

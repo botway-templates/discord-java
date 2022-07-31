@@ -13,7 +13,7 @@ import javax.security.auth.login.LoginException;
 
 public class Bot extends ListenerAdapter {
     public static void main(String[] args) throws LoginException {
-        JDABuilder.createLight(core.BotwayKt.GetToken(), GatewayIntent.GUILD_MESSAGES, GatewayIntent.DIRECT_MESSAGES, GatewayIntent.MESSAGE_CONTENT)
+        JDABuilder.createLight(botway.BotwayKt.GetToken(), GatewayIntent.GUILD_MESSAGES, GatewayIntent.DIRECT_MESSAGES, GatewayIntent.MESSAGE_CONTENT)
             .addEventListeners(new Bot())
             .setActivity(Activity.playing("Type ping"))
             .build();
