@@ -27,7 +27,4 @@ hs_err_pid*
 
 # Ignore Gradle build output directory
 build
-
-/test
-
-/app/src/main/java/core/Botway.kt
+/app/bin

@@ -6,4 +6,4 @@
 
 - [**Java**](https://www.java.com)
 - [**JDA**](https://github.com/DV8FromTheWorld/JDA)
-- [**Botlin**](https://github.com/botwayorg/discord-kotlin/blob/main/app/src/main/kotlin/botway/Botway.kt)
+- [**Botlin**](https://github.com/abdfnx/botway/blob/main/packages/botlin/main.kt)
