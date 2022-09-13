@@ -27,7 +27,7 @@ dependencies {
 
     implementation 'net.dv8tion:JDA:5.0.0-alpha.16'
 
-    implementation 'org.yaml:snakeyaml:1.30'
+    implementation 'org.yaml:snakeyaml:1.32'
 
     implementation 'net.mamoe.yamlkt:yamlkt:0.10.2'
 
